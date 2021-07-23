@@ -1,5 +1,5 @@
 import { render, screen } from '@testing-library/react';
-import App from './App';
+import App from './App'; 
 
 test('renders My really cool blog site logo', () => {
   render(<App />);
